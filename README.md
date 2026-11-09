@@ -1,16 +1,13 @@
-## Hi there 👋
+## hi, realcornerxo here 👋
 
-<!--
-**realcornerxo/realcornerxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data enthusiast turning messy datasets into clear, actionable stories. Based in Singapore.
 
-Here are some ideas to get you started:
+- 🌱 Learning Jupyter
+- ☕ Powered by coffee and late-night commits
+- 👯 Open to collaborating on open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=realcornerxo&hide_border=true&theme=xcode" alt="Contribution graph" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realcornerxo&layout=compact&langs_count=8&hide_border=true&theme=dracula" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/DuckDB-e3b341?style=for-the-badge&logoColor=white" alt="DuckDB" /> <img src="https://img.shields.io/badge/Jupyter-e3b341?style=for-the-badge&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/NumPy-e3b341?style=for-the-badge&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-e3b341?style=for-the-badge&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Python-e3b341?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQL-e3b341?style=for-the-badge&logoColor=white" alt="SQL" />
